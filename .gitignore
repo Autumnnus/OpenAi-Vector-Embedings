@@ -19,3 +19,6 @@ dist
 package-lock.json
 yarn.lock
 storage
+pinecone/documents/thesis.pdf
+embeddings/Paragraf Soru Bankası Örnek Sayfalar.pdf
+embeddings/drylab.pdf
